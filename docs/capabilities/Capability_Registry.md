@@ -103,6 +103,7 @@ Allowed values are:
 | CAP-004 | Risk Identification | Analysis | 5.0.0-alpha | Draft | Product Owner | `docs/capabilities/analysis/CAP-004_Risk_Identification.md` |
 | CAP-005 | Architecture Design | Architecture | 5.0.0-alpha | Draft | Product Owner | `docs/capabilities/architecture/CAP-005_Architecture_Design.md` |
 | CAP-006 | Architecture Review | Review | 5.0.0-alpha | Draft | Product Owner | `docs/capabilities/review/CAP-006_Architecture_Review.md` |
+| CAP-007 | Security Review | Security | 5.0.0-alpha | Draft | Product Owner | `docs/capabilities/security/CAP-007_Security_Review.md` |
 
 ## Category Counts
 
@@ -116,7 +117,7 @@ Allowed values are:
 | Documentation | 0 |
 | Review | 1 |
 | Validation | 0 |
-| Security | 0 |
+| Security | 1 |
 | Privacy | 0 |
 | Cost | 0 |
 | Migration | 0 |
