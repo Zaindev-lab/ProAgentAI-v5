@@ -4,7 +4,7 @@ $architecturePrinciples = @(
 
 &#x20;   '',
 
-&#x20;   '\*\*Document ID:\*\* ARCH-001',
+**Document ID:** ARCH-001
 
 &#x20;   '',
 

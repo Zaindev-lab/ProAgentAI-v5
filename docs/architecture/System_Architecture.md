@@ -4,7 +4,7 @@ $systemArchitecture = @(
 
 &#x20;   '',
 
-&#x20;   '\*\*Document ID:\*\* ARCH-002',
+**Document ID:** ARCH-002
 
 &#x20;   '',
 

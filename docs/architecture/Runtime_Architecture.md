@@ -4,7 +4,7 @@ $runtimeArchitecture = @(
 
 &#x20;   '',
 
-&#x20;   '\*\*Document ID:\*\* ARCH-003',
+**Document ID:** ARCH-003
 
 &#x20;   '',
 
