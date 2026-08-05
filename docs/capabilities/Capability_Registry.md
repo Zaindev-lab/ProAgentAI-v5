@@ -100,12 +100,13 @@ Allowed values are:
 | CAP-001 | Project Intake | Analysis | 5.0.0-alpha | Draft | Product Owner | `docs/capabilities/analysis/CAP-001_Project_Intake.md` |
 | CAP-002 | Requirements Analysis | Requirements | 5.0.0-alpha | Draft | Product Owner | `docs/capabilities/requirements/CAP-002_Requirements_Analysis.md` |
 | CAP-003 | Scope Definition | Planning | 5.0.0-alpha | Draft | Product Owner | `docs/capabilities/planning/CAP-003_Scope_Definition.md` |
+| CAP-004 | Risk Identification | Analysis | 5.0.0-alpha | Draft | Product Owner | `docs/capabilities/analysis/CAP-004_Risk_Identification.md` |
 
 ## Category Counts
 
 | Category | Count |
 |---|---:|
-| Analysis | 1 |
+| Analysis | 2 |
 | Requirements | 1 |
 | Planning | 1 |
 | Architecture | 0 |
