@@ -101,6 +101,7 @@ Allowed values are:
 | CAP-002 | Requirements Analysis | Requirements | 5.0.0-alpha | Draft | Product Owner | `docs/capabilities/requirements/CAP-002_Requirements_Analysis.md` |
 | CAP-003 | Scope Definition | Planning | 5.0.0-alpha | Draft | Product Owner | `docs/capabilities/planning/CAP-003_Scope_Definition.md` |
 | CAP-004 | Risk Identification | Analysis | 5.0.0-alpha | Draft | Product Owner | `docs/capabilities/analysis/CAP-004_Risk_Identification.md` |
+| CAP-005 | Architecture Design | Architecture | 5.0.0-alpha | Draft | Product Owner | `docs/capabilities/architecture/CAP-005_Architecture_Design.md` |
 
 ## Category Counts
 
@@ -109,7 +110,7 @@ Allowed values are:
 | Analysis | 2 |
 | Requirements | 1 |
 | Planning | 1 |
-| Architecture | 0 |
+| Architecture | 1 |
 | Design | 0 |
 | Documentation | 0 |
 | Review | 0 |
