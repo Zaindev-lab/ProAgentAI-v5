@@ -99,6 +99,7 @@ Allowed values are:
 |---|---|---|---|---|---|---|
 | CAP-001 | Project Intake | Analysis | 5.0.0-alpha | Draft | Product Owner | `docs/capabilities/analysis/CAP-001_Project_Intake.md` |
 | CAP-002 | Requirements Analysis | Requirements | 5.0.0-alpha | Draft | Product Owner | `docs/capabilities/requirements/CAP-002_Requirements_Analysis.md` |
+| CAP-003 | Scope Definition | Planning | 5.0.0-alpha | Draft | Product Owner | `docs/capabilities/planning/CAP-003_Scope_Definition.md` |
 
 ## Category Counts
 
@@ -106,7 +107,7 @@ Allowed values are:
 |---|---:|
 | Analysis | 1 |
 | Requirements | 1 |
-| Planning | 0 |
+| Planning | 1 |
 | Architecture | 0 |
 | Design | 0 |
 | Documentation | 0 |
