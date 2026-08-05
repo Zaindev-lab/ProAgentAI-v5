@@ -98,13 +98,14 @@ Allowed values are:
 | Capability ID | Name | Category | Version | Status | Owner | Specification |
 |---|---|---|---|---|---|---|
 | CAP-001 | Project Intake | Analysis | 5.0.0-alpha | Draft | Product Owner | `docs/capabilities/analysis/CAP-001_Project_Intake.md` |
+| CAP-002 | Requirements Analysis | Requirements | 5.0.0-alpha | Draft | Product Owner | `docs/capabilities/requirements/CAP-002_Requirements_Analysis.md` |
 
 ## Category Counts
 
 | Category | Count |
 |---|---:|
 | Analysis | 1 |
-| Requirements | 0 |
+| Requirements | 1 |
 | Planning | 0 |
 | Architecture | 0 |
 | Design | 0 |
