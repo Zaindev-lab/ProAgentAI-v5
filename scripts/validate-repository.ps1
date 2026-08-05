@@ -26,6 +26,10 @@ function Invoke-ValidationStep {
 
         if ($LASTEXITCODE -and $LASTEXITCODE -ne 0) {
             throw "Command exited with code $LASTEXITCODE"
+        Invoke-ValidationStep "Documentation links" {
+    & (Join-Path $scriptsRoot "validate-links.ps1")
+
+    }
         }
 
         Write-Host "[PASS] $Name" -ForegroundColor Green
