@@ -1,5 +1,5 @@
 param(
-    [string]$StateFile = ".\runtime\state\Runtime_State_Schema.json"
+    [string]$StateFile = ".\runtime\state\Runtime_State_Example.json"
 )
 
 $ErrorActionPreference = "Stop"
