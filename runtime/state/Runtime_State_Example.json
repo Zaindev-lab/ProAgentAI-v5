@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "1.0.0",
+  "stateId": "STATE-001",
+  "projectId": "PROJECT-001",
+  "requestId": "REQUEST-001",
+  "phase": "INTAKE",
+  "status": "CREATED",
+  "activeWorkflow": null,
+  "activeCapability": null,
+  "completedSteps": [],
+  "pendingSteps": [],
+  "evidence": [],
+  "blockers": [],
+  "errors": [],
+  "warnings": [],
+  "approvalState": "NOT_REQUIRED",
+  "validationState": "NOT_STARTED",
+  "deliveryState": "NOT_READY",
+  "createdAt": "2026-08-06T10:00:00Z",
+  "updatedAt": "2026-08-06T10:00:00Z"
+}

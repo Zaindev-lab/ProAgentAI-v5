@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Runtime State",
+  "type": "object",
+  "required": [
+    "schemaVersion",
+    "stateId",
+    "projectId",
+    "requestId",
+    "phase",
+    "status",
+    "completedSteps",
+    "pendingSteps",
+    "evidence",
+    "errors",
+    "warnings",
+    "createdAt",
+    "updatedAt"
+  ],
+  "properties": {
+    "schemaVersion": { "type": "string" },
+    "stateId": { "type": "string" },
+    "projectId": { "type": "string" },
+    "requestId": { "type": "string" },
+    "phase": { "type": "string" },
+    "status": { "type": "string" },
+    "completedSteps": { "type": "array" },
+    "pendingSteps": { "type": "array" },
+    "evidence": { "type": "array" },
+    "errors": { "type": "array" },
+    "warnings": { "type": "array" },
+    "createdAt": { "type": "string" },
+    "updatedAt": { "type": "string" }
+  }
+}

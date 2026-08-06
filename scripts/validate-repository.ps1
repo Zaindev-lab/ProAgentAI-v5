@@ -54,6 +54,9 @@ try {
         & (Join-Path $scriptsRoot "check-document-ids.ps1")
     }
 
+    Invoke-ValidationStep "Runtime State" {
+        & (Join-Path $scriptsRoot "validate-runtime-state.ps1")
+    }
     Invoke-ValidationStep "Git whitespace and formatting" {
         git diff --check
 
